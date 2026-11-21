@@ -3,10 +3,11 @@
 A simple and responsive Expense Tracker built with HTML, CSS, and Vanilla JavaScript. This application allows users to manage their income and expenses, track their balance, and save transactions using Local Storage.
 
 ## 🔗 Live Demo
-()
+
+(https://rahafjadallah.github.io/Expense-Tracker/)
 
 ## 📸 Screenshot
-
+<img width="1362" height="648" alt="image" src="https://github.com/user-attachments/assets/1b9dcc78-339b-4dee-aa70-cd76cda6efdb" />
 
 ## ✨ Features
 
